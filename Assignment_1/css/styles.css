@@ -1,0 +1,278 @@
+.part1 {
+    background-image:url(../images/assets/backgrounds/hero.jpg);
+    padding-bottom: 500px;
+      }
+
+.part1 p {
+     color: white;
+      }
+
+.part1 h1 {
+    color: white;
+  }
+
+.image {
+      background-image: url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/products/tshirt.png);
+  }
+.section4 {
+      background-image:url(/home/tony/Documents/HTML/FrontEnd-Assignments/Assignment_1/assets/backgrounds/about.jpg);
+      padding: 70px;
+  }
+.about{
+      border-style: solid;
+        border-width: 1px;
+  }
+
+.boxed{
+    border: 1px solid rgb(97, 76, 7);
+    height: 50%;
+}  
+
+.about p{
+    color: white;
+}
+
+#shirt{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#box{
+    width: 310px;
+}
+
+#shadow{
+    height: 150px;
+}
+
+#shadow span{
+    float: left;
+    padding-top: 90px;
+    color: brown;
+}
+
+#shadow p{
+    float: right;
+    padding-top: 100px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#pants{
+    width: 30%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#card{
+    height:135px;
+}
+
+#card span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#card p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#box1{
+    width: 310px;
+}
+
+#bag{
+    width: 40%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#content{
+    height:135px;
+}
+
+#content span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#content p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#box2{
+    width: 310px;
+    float: inherit;
+}
+
+.wrap{
+    padding-left: 1100px;
+    font-size: 23px;
+    border-bottom: 1px solid;
+    border-width: 2px 1px;
+}
+
+
+#jacket{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#jtcontent{
+    height:135px;
+}
+
+#jtcontent span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#jtcontent p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#jt{
+    width: 310px;
+    float: inherit;
+}
+
+#shoes{
+    width: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#TS{
+    height:200px;
+}
+#TS span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#TS p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#trekking{
+    width: 310px;
+    float: inherit;
+}
+
+#Tshirt{
+    width: 55%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 50px;
+}
+
+#SHIRT{
+    height:135px;
+}
+
+#SHIRT span{
+    float: left;
+    padding-top: 20px;
+    color: brown;
+}
+
+#SHIRT p{
+    float: right;
+    padding-top: 30px;
+    font-size: 20px;
+    font-style: unset;
+    color: black;
+}
+
+#Tbox{
+    width: 310px;
+    float: inherit;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#nav{
+    height: 100px;
+    padding-bottom: -0;
+}
+
+#nav img{
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#nav p{
+    font-size: 20px;
+    padding-top: 25px;
+    padding-right: 300px;
+}
+
+#nav{
+    color: #FFFFFF;
+    position: relative;
+    height: 100px;
+}
+
+.section6{
+      text-align: center;
+      padding: 20px;
+  }
+.section3{
+      background-color: rgba(195,131,76);
+  }
